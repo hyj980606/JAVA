@@ -1,7 +1,5 @@
 package com.myRandom;
 
-import jdk.internal.cmm.SystemResourcePressureImpl;
-
 import java.util.Random;
 import java.util.Scanner;
 
