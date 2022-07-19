@@ -26,5 +26,40 @@ package com.myArray;
  */
 
 public class ArrayDemo05 {
+    public static void main(String[] args) {
+        //数据类型[][] 数组名 = {{元素...},{元素...},{元素...},...};
+        int[][] arr = {{1,2,3},{4,5,6},{7,8,9}};
 
+        System.out.println(arr);
+        System.out.println(arr[0]);
+        System.out.println(arr[1]);
+        System.out.println(arr[2]);
+
+        //如何获取二维数组中的元素呢？
+        System.out.println(arr[0][0]);
+        System.out.println(arr[1][1]);
+        System.out.println(arr[2][2]);
+
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
