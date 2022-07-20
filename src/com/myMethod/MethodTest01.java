@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 /**
  * @ClassName MethodTest01
- * @Description TODO
- * @Author hyj98
+ * @Description
+ * @Author hyj
  * @Date 2022-07-20 20:59
  * @Version 1.0
  */
