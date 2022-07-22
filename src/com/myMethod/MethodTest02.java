@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * @ClassName MethodTest02
- * @Description
+ * @Description 键盘录入两个数据，比较两个数据是否相等
  * @Author hyj
  * @Date 2022-07-20 21:08
  * @Version 1.0
