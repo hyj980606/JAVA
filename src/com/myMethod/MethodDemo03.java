@@ -19,7 +19,7 @@ package com.myMethod;
 public class MethodDemo03 {
     public static void main(String[] args) {
         //单独调用
-
+        printHelloWorld();
     }
 
     /*
