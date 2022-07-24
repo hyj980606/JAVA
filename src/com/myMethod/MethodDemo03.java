@@ -25,7 +25,7 @@ public class MethodDemo03 {
     /*
     * 两个明确：
     *       返回值类型：void
-    *       参数列表；
+    *       参数列表：没有参数
     * */
     public static void printHelloWorld(){
         for (int x=0;x<10;x++){
